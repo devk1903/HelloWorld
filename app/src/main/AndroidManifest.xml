@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
+        <activity android:name=".activity_mahdiyahafsr"></activity>
+
+        <activity android:name=".activity_aslama"></activity>
+        <activity android:name=".Activity_Devk1903"></activity>
+
         <activity android:name=".Activity_nabilaah"></activity>
 
         <activity android:name=".activity_aslama"></activity>
